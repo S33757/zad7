@@ -8,5 +8,6 @@ public class Main {
 
         //System.out.println("Liczba miejsc w samochodzie: " + car1.getNumerOfSeats());
 
+        // ------------------------------- zadanie 3 i 4 ---------------------------------------------------
     }
 }
